@@ -1,6 +1,6 @@
 # RoadMap
 
-Year 1 (Semester I & II):<br/<br/>>
+Year 1 (Semester I & II):<br/><br/>
 Primary Focus:<br/>
 
 C Programming (Semester I):<br/>
